@@ -20,7 +20,7 @@ function App() {
             backgroundColorj: "red",
           }}
         >
-          MI MAMI SE VA A PONER MEJOR.....!!!!
+          I was change on the Feature branch
         </h2>
 
         <p>
